@@ -62,17 +62,16 @@ BrainSync is an AI-powered system that helps in the early detection and analysis
 ### 🏠 Homepage  
 ![Homepage](./assets/screenshots/homepage.jpg)
 
+### 💼 Behavioural Questions  
+![Job Listings](./assets/screenshots/job-listing.jpg)
+
 ### 📊 Dashboard  
 ![Dashboard](./assets/screenshots/dashboard.jpg)
 
-### 💼 Internship Listings  
-![Job Listings](./assets/screenshots/job-listing.jpg)
+### 📊 Recommendations  
+![Dashboard](./assets/screenshots/recommendations.jpg)
 
-### 📝 Apply to Internship  
-![Apply Form](./assets/screenshots/apply-form.jpg)
 
-### 👤 Profile Page  
-![Profile Page](./assets/screenshots/profile-page.jpg)
 
 ---
 
